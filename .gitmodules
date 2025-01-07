@@ -1,0 +1,3 @@
+[submodule "auth/auth/exo"]
+	path = auth/auth/exo
+	url = https://github.com/Natty20/JWT.git
